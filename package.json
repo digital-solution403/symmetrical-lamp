@@ -1,0 +1,22 @@
+{
+  "name": "@digital-solution403/symmetrical-lamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mirrors.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digital-solution403/symmetrical-lamp.git"
+  },
+  "author": "",
+  "license": "The Unlicence",
+  "bugs": {
+    "url": "https://github.com/digital-solution403/symmetrical-lamp/issues"
+  },
+  "homepage": "https://github.com/digital-solution403/symmetrical-lamp#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
